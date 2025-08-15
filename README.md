@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  A fast, responsive pizza menu web app built with 
+  A fast, responsive pizza menu web app built with
   <b>React</b>, <b>Vite</b>, and <b>Tailwind CSS</b> — deployed on <b>GitHub Pages</b>.
 </p>
 
@@ -15,7 +15,8 @@
 ## 📸 Screenshot
 
 <p align="center">
-<img width="1920" height="869" alt="fast-pizza" src="https://github.com/user-attachments/assets/0e8de5c4-5d00-43ad-9399-81f69c239562" /></p>
+  <img width="1920" height="869" alt="fast-pizza" src="https://github.com/user-attachments/assets/0e8de5c4-5d00-43ad-9399-81f69c239562" />
+</p>
 
 ---
 
@@ -34,12 +35,19 @@
 ## ✨ Features
 
 | Feature | Description |
-|---------|-------------|
+| --- | --- |
 | ⚡ **Lightning Fast** | Vite-powered build for instant dev and fast production |
 | 🎨 **Beautiful UI** | Tailwind CSS for clean, responsive, mobile-first styling |
 | ♿ **Accessibility** | Semantic HTML, focus states, ARIA-ready |
 | 🔍 **SEO Ready** | Title, meta tags, and OpenGraph configured |
 | 🚀 **Easy Deploy** | One-command deployment to GitHub Pages |
+
+---
+
+<p align="center">
+  <b>👨‍💻 Author: Milad Mohammadi</b><br>
+  🌐 <a href="https://milink.site">Website</a> • 💼 <a href="https://linkedin.com/in/miladmo68">LinkedIn</a> • 🐙 <a href="https://github.com/miladmo68">GitHub</a>
+</p>
 
 ---
 
@@ -57,8 +65,3 @@ npm run build
 
 # 4) Preview the production build
 npm run preview
-
-## 👨‍💻 Author  
-👨‍💻 Author Milad Mohammadi🌐 [Website](https://milink.site) • 💼 [LinkedIn](https://linkedin.com/in/your-link) • 🐙 [GitHub](https://github.com/miladmo68)
-
-
