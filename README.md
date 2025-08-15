@@ -12,6 +12,13 @@
 
 ---
 
+## 📸 Screenshot
+
+<p align="center">
+<img width="1920" height="869" alt="fast-pizza" src="https://github.com/user-attachments/assets/0e8de5c4-5d00-43ad-9399-81f69c239562" /></p>
+
+---
+
 ## 🚀 Tech Stack
 
 <p align="center">
@@ -36,13 +43,6 @@
 
 ---
 
-## 📸 Screenshots
-
-<p align="center">
----<img width="1920" height="869" alt="fast-pizza" src="https://github.com/user-attachments/assets/0e8de5c4-5d00-43ad-9399-81f69c239562" /></p>
-
----
-
 ## 🛠 Getting Started
 
 ```bash
@@ -57,3 +57,8 @@ npm run build
 
 # 4) Preview the production build
 npm run preview
+
+## 👨‍💻 Author  
+👨‍💻 Author Milad Mohammadi🌐 [Website](https://milink.site) • 💼 [LinkedIn](https://linkedin.com/in/your-link) • 🐙 [GitHub](https://github.com/miladmo68)
+
+
