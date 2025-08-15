@@ -5,7 +5,6 @@
 
 A fast, responsive pizza menu demo built with **React + Vite + Tailwind CSS** and deployed on **GitHub Pages**.
 
-![Screenshot](./public/screenshot-hero.png)
 
 ---<img width="1920" height="869" alt="fast-pizza" src="https://github.com/user-attachments/assets/0e8de5c4-5d00-43ad-9399-81f69c239562" />
 
