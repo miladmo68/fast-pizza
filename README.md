@@ -1,65 +1,65 @@
-<h1 align="center">🍕 Fast Pizza</h1>
+<div align="center">
+
+# 🍕 Fast React Pizza Co.
+
+A pizza ordering app with menu, cart, order creation and order tracking.
+
+<a href="https://miladmo68.github.io/fast-pizza/"><img src="https://img.shields.io/badge/Live_Demo-Open_Site-FF6A00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
+<a href="https://github.com/miladmo68/fast-pizza"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"></a>
+<a href="https://miladweb.com"><img src="https://img.shields.io/badge/Portfolio-miladweb.com-1E3A8A?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"></a>
+
+**🔗 Live:** [miladmo68.github.io/fast-pizza](https://miladmo68.github.io/fast-pizza/)
+
+</div>
 
 <p align="center">
-  <a href="https://miladmo68.github.io/fast-pizza/"><b>🔗 Live Demo</b></a> •
-  <a href="https://github.com/miladmo68/fast-pizza"><b>📦 Repository</b></a>
+  <img src="./.github/preview.jpg" alt="Fast React Pizza Co. screenshot" width="100%" />
 </p>
-
-<p align="center">
-  A fast, responsive pizza menu web app built with
-  <b>React</b>, <b>Vite</b>, and <b>Tailwind CSS</b> — deployed on <b>GitHub Pages</b>.
-</p>
-
----
-
-## 📸 Screenshot
-
-<p align="center">
-  <img width="1920" height="869" alt="fast-pizza" src="https://github.com/user-attachments/assets/0e8de5c4-5d00-43ad-9399-81f69c239562" />
-</p>
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-5-646cff?style=for-the-badge&logo=vite&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/TailwindCSS-3-38b2ac?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESLint-configured-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prettier-setup-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
-  <img src="https://img.shields.io/badge/Deploy-GitHub%20Pages-black?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
 
 ## ✨ Features
 
-| Feature | Description |
-| --- | --- |
-| ⚡ **Lightning Fast** | Vite-powered HMR and optimized production builds |
-| 🎨 **Beautiful UI** | Tailwind CSS for clean, responsive, mobile-first styling |
-| ♿ **Accessibility** | Semantic HTML, focus outlines, and ARIA-ready components |
-| 🔍 **SEO Ready** | Title, meta tags, and OpenGraph configured |
-| 🚀 **Easy Deploy** | One-command deployment to GitHub Pages |
+- Menu loaded with React Router loaders
+- Cart with Redux Toolkit
+- Create, search and update orders
+- Geolocation for the delivery address
+- Tailwind CSS
 
----
+## 🛠️ Tech Stack
 
-<p align="center">
-  <b>👨‍💻 Author: Milad Mohammadi</b><br>
-  🌐 <a href="https://miladweb.com">Website</a> • 💼 <a href="https://linkedin.com/in/miladmo68">LinkedIn</a> • 🐙 <a href="https://github.com/miladmo68">GitHub</a>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 
----
+## 🚀 Getting Started
 
-## 🛠 Getting Started
+**Prerequisites:** [Node.js](https://nodejs.org/) 18 or newer
+
+**Install and run**
 
 ```bash
-# 1) Install dependencies
+git clone https://github.com/miladmo68/fast-pizza.git
+cd fast-pizza
 npm install
-
-# 2) Run development server
 npm run dev
+```
 
-# 3) Build for production
-npm run build
+## 📁 Project Structure
+
+```
+fast-pizza/
+├── public/
+├── src/
+├── index.html
+├── package.json
+├── postcss.config.js
+├── tailwind.config.js
+└── vite.config.js
+```
+
+## 👤 Author
+
+**Milad Mohammadi** — Frontend-Focused Full-Stack Developer, Toronto 🇨🇦
+
+[![Website](https://img.shields.io/badge/Website-miladweb.com-FF6A00?style=flat-square&logo=googlechrome&logoColor=white)](https://miladweb.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-miladmo68-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miladmo68/)
+[![GitHub](https://img.shields.io/badge/GitHub-miladmo68-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/miladmo68)
+
+<p align="center"><sub>If you like this project, consider giving it a ⭐</sub></p>
